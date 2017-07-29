@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Project name="Project Name">
+        <Folder name="dir1" />
+        <File name=".gitignore" />
+        <File name="app.js" />
+        <File name="hw1_data.csv" />
+        <File name="index.html" />
+        <File name="log.txt" />
+        <File name="mycode.R" />
+        <File name="patient_geographic_data.csv" />
+        <File name="quiz1_data.zip" />
+        <Folder name="dir2" />
+    </Project>
+</NotepadPlus>
